@@ -125,5 +125,9 @@ return [
             'deleted_at_helper' => ' ',
         ],
     ],
+    'test' => [
+        'title'          => 'Test',
+        'title_singular' => 'Test',
+    ],
 
 ];
